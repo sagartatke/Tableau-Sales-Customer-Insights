@@ -1,0 +1,151 @@
+ProductID,Category,SubCategory,ProductName,CostPrice
+PRD2000,Office Supplies,Binders,Office Supplies_Binders_108,194.53
+PRD2001,Furniture,Chairs,Furniture_Chairs_359,167.39
+PRD2002,Furniture,Tables,Furniture_Tables_241,218.41
+PRD2003,Office Supplies,Binders,Office Supplies_Binders_56,93.5
+PRD2004,Technology,Machines,Technology_Machines_306,169.37
+PRD2005,Office Supplies,Storage,Office Supplies_Storage_38,221.4
+PRD2006,Technology,Machines,Technology_Machines_285,274.99
+PRD2007,Office Supplies,Binders,Office Supplies_Binders_269,194.76
+PRD2008,Furniture,Tables,Furniture_Tables_462,260.45
+PRD2009,Technology,Accessories,Technology_Accessories_123,204.67
+PRD2010,Furniture,Tables,Furniture_Tables_330,173.28
+PRD2011,Office Supplies,Storage,Office Supplies_Storage_433,194.78
+PRD2012,Office Supplies,Paper,Office Supplies_Paper_103,152.23
+PRD2013,Office Supplies,Storage,Office Supplies_Storage_147,36.77
+PRD2014,Technology,Accessories,Technology_Accessories_259,20.19
+PRD2015,Technology,Phones,Technology_Phones_157,27.53
+PRD2016,Furniture,Chairs,Furniture_Chairs_159,137.83
+PRD2017,Furniture,Bookcases,Furniture_Bookcases_19,192.54
+PRD2018,Office Supplies,Paper,Office Supplies_Paper_315,243.81
+PRD2019,Office Supplies,Binders,Office Supplies_Binders_168,37.28
+PRD2020,Technology,Machines,Technology_Machines_20,60.12
+PRD2021,Furniture,Tables,Furniture_Tables_263,144.02
+PRD2022,Office Supplies,Storage,Office Supplies_Storage_53,71.56
+PRD2023,Technology,Phones,Technology_Phones_75,84.6
+PRD2024,Technology,Machines,Technology_Machines_302,27.66
+PRD2025,Office Supplies,Binders,Office Supplies_Binders_172,122.83
+PRD2026,Office Supplies,Paper,Office Supplies_Paper_3,170.25
+PRD2027,Office Supplies,Paper,Office Supplies_Paper_480,268.4
+PRD2028,Office Supplies,Binders,Office Supplies_Binders_491,160.37
+PRD2029,Technology,Phones,Technology_Phones_301,242.9
+PRD2030,Furniture,Chairs,Furniture_Chairs_491,234.24
+PRD2031,Office Supplies,Storage,Office Supplies_Storage_368,83.98
+PRD2032,Furniture,Bookcases,Furniture_Bookcases_484,277.75
+PRD2033,Office Supplies,Storage,Office Supplies_Storage_86,23.5
+PRD2034,Office Supplies,Paper,Office Supplies_Paper_366,158.54
+PRD2035,Furniture,Chairs,Furniture_Chairs_18,174.49
+PRD2036,Furniture,Chairs,Furniture_Chairs_400,130.92
+PRD2037,Technology,Machines,Technology_Machines_48,87.1
+PRD2038,Furniture,Tables,Furniture_Tables_106,132.06
+PRD2039,Furniture,Bookcases,Furniture_Bookcases_275,81.75
+PRD2040,Technology,Accessories,Technology_Accessories_107,96.46
+PRD2041,Technology,Phones,Technology_Phones_385,282.11
+PRD2042,Office Supplies,Paper,Office Supplies_Paper_289,94.86
+PRD2043,Furniture,Tables,Furniture_Tables_2,33.74
+PRD2044,Furniture,Bookcases,Furniture_Bookcases_213,226.31
+PRD2045,Furniture,Tables,Furniture_Tables_262,234.9
+PRD2046,Office Supplies,Storage,Office Supplies_Storage_13,55.73
+PRD2047,Furniture,Tables,Furniture_Tables_198,211.45
+PRD2048,Office Supplies,Paper,Office Supplies_Paper_443,85.01
+PRD2049,Technology,Phones,Technology_Phones_449,65.81
+PRD2050,Office Supplies,Storage,Office Supplies_Storage_446,59.59
+PRD2051,Furniture,Bookcases,Furniture_Bookcases_284,123.96
+PRD2052,Office Supplies,Storage,Office Supplies_Storage_292,135.46
+PRD2053,Office Supplies,Paper,Office Supplies_Paper_403,49.75
+PRD2054,Office Supplies,Binders,Office Supplies_Binders_445,62.65
+PRD2055,Office Supplies,Storage,Office Supplies_Storage_29,95.6
+PRD2056,Technology,Accessories,Technology_Accessories_189,102.24
+PRD2057,Furniture,Chairs,Furniture_Chairs_315,247.56
+PRD2058,Furniture,Bookcases,Furniture_Bookcases_493,65.28
+PRD2059,Office Supplies,Paper,Office Supplies_Paper_4,190.79
+PRD2060,Technology,Accessories,Technology_Accessories_429,65.03
+PRD2061,Technology,Phones,Technology_Phones_321,266.52
+PRD2062,Furniture,Chairs,Furniture_Chairs_28,82.84
+PRD2063,Technology,Machines,Technology_Machines_302,134.71
+PRD2064,Furniture,Bookcases,Furniture_Bookcases_117,267.06
+PRD2065,Furniture,Chairs,Furniture_Chairs_328,210.77
+PRD2066,Office Supplies,Binders,Office Supplies_Binders_163,48.16
+PRD2067,Furniture,Chairs,Furniture_Chairs_492,173.82
+PRD2068,Technology,Accessories,Technology_Accessories_418,136.88
+PRD2069,Office Supplies,Paper,Office Supplies_Paper_107,127.62
+PRD2070,Technology,Accessories,Technology_Accessories_126,73.95
+PRD2071,Technology,Machines,Technology_Machines_120,210.06
+PRD2072,Furniture,Tables,Furniture_Tables_261,226.92
+PRD2073,Furniture,Tables,Furniture_Tables_468,20.59
+PRD2074,Office Supplies,Storage,Office Supplies_Storage_51,183.46
+PRD2075,Office Supplies,Storage,Office Supplies_Storage_480,225.26
+PRD2076,Technology,Phones,Technology_Phones_462,294.64
+PRD2077,Technology,Accessories,Technology_Accessories_471,190.63
+PRD2078,Furniture,Tables,Furniture_Tables_366,92.99
+PRD2079,Furniture,Bookcases,Furniture_Bookcases_213,35.23
+PRD2080,Furniture,Chairs,Furniture_Chairs_305,128.75
+PRD2081,Furniture,Chairs,Furniture_Chairs_269,246.66
+PRD2082,Furniture,Tables,Furniture_Tables_94,184.17
+PRD2083,Furniture,Chairs,Furniture_Chairs_494,283.63
+PRD2084,Technology,Phones,Technology_Phones_427,207.42
+PRD2085,Technology,Accessories,Technology_Accessories_459,140.91
+PRD2086,Furniture,Bookcases,Furniture_Bookcases_152,255.09
+PRD2087,Technology,Accessories,Technology_Accessories_86,250.71
+PRD2088,Furniture,Chairs,Furniture_Chairs_324,65.19
+PRD2089,Technology,Phones,Technology_Phones_494,231.55
+PRD2090,Technology,Phones,Technology_Phones_176,176.66
+PRD2091,Technology,Phones,Technology_Phones_278,181.38
+PRD2092,Office Supplies,Paper,Office Supplies_Paper_32,112.57
+PRD2093,Furniture,Tables,Furniture_Tables_494,161.4
+PRD2094,Furniture,Tables,Furniture_Tables_12,194.26
+PRD2095,Furniture,Bookcases,Furniture_Bookcases_279,229.39
+PRD2096,Technology,Phones,Technology_Phones_95,70.16
+PRD2097,Furniture,Chairs,Furniture_Chairs_389,257.96
+PRD2098,Technology,Phones,Technology_Phones_82,274.01
+PRD2099,Technology,Accessories,Technology_Accessories_401,211.24
+PRD2100,Technology,Machines,Technology_Machines_489,175.95
+PRD2101,Office Supplies,Binders,Office Supplies_Binders_97,195.42
+PRD2102,Furniture,Chairs,Furniture_Chairs_193,187.09
+PRD2103,Technology,Phones,Technology_Phones_166,50.94
+PRD2104,Technology,Phones,Technology_Phones_59,261.53
+PRD2105,Furniture,Bookcases,Furniture_Bookcases_111,191.48
+PRD2106,Furniture,Bookcases,Furniture_Bookcases_160,271.05
+PRD2107,Furniture,Chairs,Furniture_Chairs_206,178.37
+PRD2108,Office Supplies,Storage,Office Supplies_Storage_175,107.99
+PRD2109,Technology,Accessories,Technology_Accessories_188,264.18
+PRD2110,Technology,Accessories,Technology_Accessories_447,110.3
+PRD2111,Furniture,Bookcases,Furniture_Bookcases_9,234.75
+PRD2112,Technology,Phones,Technology_Phones_481,58.34
+PRD2113,Technology,Machines,Technology_Machines_207,169.66
+PRD2114,Office Supplies,Binders,Office Supplies_Binders_172,269.72
+PRD2115,Furniture,Tables,Furniture_Tables_467,129.29
+PRD2116,Office Supplies,Paper,Office Supplies_Paper_173,156.53
+PRD2117,Furniture,Tables,Furniture_Tables_4,99.07
+PRD2118,Technology,Accessories,Technology_Accessories_83,115.78
+PRD2119,Furniture,Tables,Furniture_Tables_434,139.35
+PRD2120,Furniture,Tables,Furniture_Tables_291,183.15
+PRD2121,Technology,Accessories,Technology_Accessories_451,36.9
+PRD2122,Office Supplies,Paper,Office Supplies_Paper_470,87.53
+PRD2123,Furniture,Chairs,Furniture_Chairs_285,176.82
+PRD2124,Office Supplies,Binders,Office Supplies_Binders_201,66.52
+PRD2125,Furniture,Chairs,Furniture_Chairs_131,185.09
+PRD2126,Office Supplies,Paper,Office Supplies_Paper_82,275.81
+PRD2127,Technology,Machines,Technology_Machines_156,105.79
+PRD2128,Furniture,Chairs,Furniture_Chairs_284,213.47
+PRD2129,Office Supplies,Binders,Office Supplies_Binders_165,25.22
+PRD2130,Technology,Phones,Technology_Phones_255,246.66
+PRD2131,Office Supplies,Binders,Office Supplies_Binders_424,41.17
+PRD2132,Technology,Accessories,Technology_Accessories_146,228.87
+PRD2133,Office Supplies,Binders,Office Supplies_Binders_455,192.18
+PRD2134,Technology,Accessories,Technology_Accessories_295,279.3
+PRD2135,Technology,Phones,Technology_Phones_196,49.26
+PRD2136,Furniture,Tables,Furniture_Tables_189,205.4
+PRD2137,Office Supplies,Storage,Office Supplies_Storage_95,263.26
+PRD2138,Furniture,Bookcases,Furniture_Bookcases_147,201.97
+PRD2139,Furniture,Bookcases,Furniture_Bookcases_334,204.17
+PRD2140,Furniture,Bookcases,Furniture_Bookcases_497,76.35
+PRD2141,Furniture,Tables,Furniture_Tables_39,67.92
+PRD2142,Furniture,Bookcases,Furniture_Bookcases_275,98.86
+PRD2143,Furniture,Chairs,Furniture_Chairs_196,259.97
+PRD2144,Furniture,Tables,Furniture_Tables_258,283.47
+PRD2145,Furniture,Tables,Furniture_Tables_188,215.77
+PRD2146,Office Supplies,Paper,Office Supplies_Paper_354,294.52
+PRD2147,Furniture,Chairs,Furniture_Chairs_382,150.79
+PRD2148,Technology,Phones,Technology_Phones_354,163.63
+PRD2149,Office Supplies,Paper,Office Supplies_Paper_70,264.26
